@@ -1,0 +1,37 @@
+# Node.js dependencies
+node_modules
+
+# Logs
+logs
+*.log
+
+# System Files
+*.iml
+*.ipynb
+
+# IDE Files
+.vscode
+.idea
+
+# Operating System Files
+.Thumbs
+ehthumbs.db
+Desktop.ini
+
+#Temporary Files
+*.tmp
+*.temp
+*.swp
+*.swo
+*.svn
+*.git
+
+#Backup Files
+*~
+*.bak
+
+#Other
+.DS_Store
+bower_components
+npm-debug.log
+yarn-error.log
